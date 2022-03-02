@@ -2006,7 +2006,7 @@ body.lock {
 }
 .send {
   position: relative;
-  background: url(../../img/main/send/bg.png) 0 50% no-repeat;
+  background: url(../img/main/send/bg.png) 0 50% no-repeat;
   padding: 196px 0px 185px 0px;
 }
 @media (max-width: 884px) {
